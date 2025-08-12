@@ -36,6 +36,9 @@ dependencies = [
     "Pillow>=10.0"
 ]
 
+[tool.setuptools]
+include-package-data = true
+
 [tool.setuptools.packages.find]
 include = ["ctk_colorpicker_plus*"]
 

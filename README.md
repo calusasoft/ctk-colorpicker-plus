@@ -98,6 +98,7 @@ examples/
 - Python 3.8+
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 - [Pillow](https://pypi.org/project/pillow/)
+
 Install dependencies:
 ```
 pip install customtkinter Pillow

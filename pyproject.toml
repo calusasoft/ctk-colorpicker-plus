@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ctk-colorpicker-plus"
-version = "0.1.0"
+version = "0.1.1"
 description = "Enhanced CustomTkinter color picker widget with bug fixes, hex input, and improved reticle/slider behavior."
 readme = "README.md"
 license = { file = "LICENSE" }

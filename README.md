@@ -1,7 +1,7 @@
 # ctk-colorpicker-plus
 An extended and modernized color picker for [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter), featuring both a modal dialog and embeddable widget with a color wheel, brightness slider, and hex entry.
 
-Forked from the original **CTkColorPicker** by [Akash Bora (Akascape)](https://github.com/Akascape) — with bug fixes, enhancements, and new features.
+Forked from the original **CTkColorPicker** by [Akash Bora (Akascape)](https://github.com/Akascape) - with bug fixes, enhancements, and new features.
 
 ![Modal color picker, light and dark](https://github.com/user-attachments/assets/7811857c-4367-4b2d-9ced-e3ad02f03f68)
 

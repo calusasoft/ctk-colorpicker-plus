@@ -10,13 +10,13 @@ Forked from the original **CTkColorPicker** by [Akash Bora (Akascape)](https://g
 ## Features
 
 - **Two usage modes**:
-  - `AskColor` — modal dialog for picking a color
-  - `CTkColorPicker` — embeddable widget for your layouts
-- **Accurate reticle positioning** — fixed hue/saturation calculation bug
-- **Brightness slider** — smooth 0–255 range
-- **Hex entry field** — accepts user input, short (`#fff`) or full (`#ffffff`) hex values
-- **Real-time updates** — changes propagate immediately to the UI and optional callbacks
-- **Appearance-mode aware** — adapts to light/dark or system themes in CustomTkinter
+  - `AskColor` - modal dialog for picking a color
+  - `CTkColorPicker` - embeddable widget for your layouts
+- **Accurate reticle positioning** - fixed hue/saturation calculation bug
+- **Brightness slider** - smooth 0–255 range
+- **Hex entry field** - accepts user input, short (`#fff`) or full (`#ffffff`) hex values
+- **Real-time updates** - changes propagate immediately to the UI and optional callbacks
+- **Appearance-mode aware** - adapts to light/dark or system themes in CustomTkinter
 - Fully type-hinted and `ruff`/`black` formatted
 
 [![Animated Demo](https://github.com/user-attachments/assets/84337580-acef-4481-bc6a-3d4990da149b)](https://www.youtube.com/watch?v=WLTVBCdxEOA)
@@ -25,14 +25,8 @@ Forked from the original **CTkColorPicker** by [Akash Bora (Akascape)](https://g
 
 ## Installation
 
-From PyPI (once published):
-
 ```
 pip install ctk-colorpicker-plus
-```
-Until then, install from GitHub:
-```
-pip install git+https://github.com/calusasoft/ctk-colorpicker-plus.git
 ```
 
 ---
@@ -113,6 +107,6 @@ This project is released under the MIT License.
 ---
 
 ## Credits
-- **Original Author:** Akash Bora (Akascape) — [GitHub](https://github.com/Akascape)
+- **Original Author:** Akash Bora (Akascape) - [GitHub](https://github.com/Akascape)
 - **Maintainer:** Phil Rice - [GitHub](https://github.com/calusasoft)
 - **Contributors:** Victor Vimbert-Guerlais and the open source community

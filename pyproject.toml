@@ -36,6 +36,11 @@ dependencies = [
     "Pillow>=10.0"
 ]
 
+[project.urls]
+"Homepage" = "https://github.com/calusasoft/ctk-colorpicker-plus"
+"Repository" = "https://github.com/calusasoft/ctk-colorpicker-plus"
+"Issues" = "https://github.com/calusasoft/ctk-colorpicker-plus/issues"
+
 [tool.setuptools]
 include-package-data = true
 
